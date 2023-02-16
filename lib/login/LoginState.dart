@@ -8,3 +8,5 @@ class LoginState extends Equatable{
     this.email =
 })
 }
+
+
